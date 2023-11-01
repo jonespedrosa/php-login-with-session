@@ -16,6 +16,8 @@ echo 'username' . $_SESSION['username'];
 
 <body>
     <h1>HOME!</h1>
+<label for="">Welcome!</label>
+    
 
     <form action="logout.php">
         <input type="submit" value="LOGOUT">
